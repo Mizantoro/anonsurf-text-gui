@@ -2,7 +2,6 @@
 #include <termios.h>
 #include <unistd.h>
 #include <stdio.h>
-#include <thread>
 
 using namespace std;
 
