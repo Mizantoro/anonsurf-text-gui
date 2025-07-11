@@ -1,2 +1,18 @@
-# anonsurf-text-gui
-Simple Kali AnonSurf text gui for Linux terminal
+# Anonsurf text gui
+A simple terminal interface for managing the `anonsurf` tool on Kali Linux.
+
+## Installation
+
+1. Download the program from the [Releases](https://github.com/yourusername/anonsurf-kali-text-gui/releases) page.
+
+2. Make the file executable:
+
+    ```bash
+    chmod +x anonsurf-text-gui
+    ```
+
+3. Run the program:
+
+    ```bash
+    ./anonsurf-text-gui
+    ```
